@@ -1,5 +1,5 @@
 # wyatta-tk
-all of my files for http://wyatta.tk if you want to see how its is made
+all of my files for http://wyatta.tk aka the redirect of http://fornox.tk if you want to see how its is made
 
 
 
